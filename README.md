@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --!>
-- 🔭 I’m currently working on Krita projektech
+
 - 🌱 I’m currently learning IT
 - ⚡ Fun fact hraju fotbal
 - miluju řizečkovou bagetu
